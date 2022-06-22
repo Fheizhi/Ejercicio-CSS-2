@@ -1,0 +1,30 @@
+html{
+    background-color: yellow;
+}
+
+td[class=Rojo]{
+    background-color: red;
+    font-size: x-large;
+    color: yellow;
+    text-shadow: 1px 1px blue;
+}
+
+td[class=Azul]{
+    background-color: blue;
+    font-size: x-large;
+    color: yellow;
+    text-shadow: 1px 1px white;
+}
+
+td[class=Verde]{
+    background-color: green;
+    font-size:x-large;
+    color:white;
+    text-shadow: 1px 1px yellow;
+}
+
+td{
+    text-align: center;
+    width: 75px;
+    height: 75px;
+}
